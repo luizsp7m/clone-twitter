@@ -51,7 +51,7 @@ export const Menu = styled.div`
     border: none;
     background: var(--primary-color);
     color: #fff;
-    width: 95%;
+    width: 90%;
     padding: 16px;
     border-radius: 20px;
     font-weight: bold;

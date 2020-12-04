@@ -8,9 +8,15 @@
   --body-color: #fff;
   --primary-color: #1A91DA;
   --hover-color: #E8F5FE;
+  --border-color: rgba(0, 0, 0, .1);
+  --gray-color: #888;
 }
 
 body {
   background-color: var(--body-color);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+button {
   font-family: 'Segoe UI', sans-serif;
 }
