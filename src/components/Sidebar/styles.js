@@ -33,6 +33,7 @@ export const Menu = styled.div`
     margin-bottom: 2px;
     border-radius: 20px;
     width: 95%;
+    color: #0F1419;
 
     &:hover {
       background: var(--hover-color);

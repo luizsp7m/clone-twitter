@@ -5,6 +5,8 @@ import { FaRegCalendarAlt } from 'react-icons/fa';
 
 import { Container, Row, Profile, Background, Image, Details, Navbar } from './styles';
 
+import Tweet from '../Tweet';
+
 function Main() {
   return (
     <Container>
@@ -44,6 +46,8 @@ function Main() {
         <span>Mídia</span>
         <span>Curtidas</span>
       </Navbar>
+
+      <Tweet />
     </Container>
   );
 }

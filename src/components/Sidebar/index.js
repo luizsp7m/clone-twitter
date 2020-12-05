@@ -11,42 +11,42 @@ function Sidebar() {
         <FaTwitter color="#1A91DA" size={28} className="logo" />
 
         <div>
-          <FaHome color="#111" size={24} />
+          <FaHome color="#222" size={24} />
           <label>Página Inicial</label>
         </div>
 
         <div>
-          <FaHashtag color="#111" size={24} />
+          <FaHashtag color="#222" size={24} />
           <label>Explorar</label>
         </div>
 
         <div>
-          <FaRegBell color="#111" size={24} />
+          <FaRegBell color="#222" size={24} />
           <label>Notificações</label>
         </div>
 
         <div>
-          <FaEnvelope color="#111" size={24} />
+          <FaEnvelope color="#222" size={24} />
           <label>Mensagens</label>
         </div>
 
         <div>
-          <FaRegFlag color="#111" size={24} />
+          <FaRegFlag color="#222" size={24} />
           <label>Itens salvos</label>
         </div>
 
         <div>
-          <FaList color="#111" size={24} />
+          <FaList color="#222" size={24} />
           <label>Listas</label>
         </div>
 
         <div>
-          <FaUserAlt color="#111" size={24} />
+          <FaUserAlt color="#222" size={24} />
           <label>Perfil</label>
         </div>
 
         <div>
-          <FaEllipsisH color="#111" size={24} />
+          <FaEllipsisH color="#222" size={24} />
           <label>Mais</label>
         </div>
 
