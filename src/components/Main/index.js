@@ -20,7 +20,7 @@ function Main() {
 
       <Profile>
         <Background />
-        <Image src="https://images.wallpaperscraft.com/image/forest_trees_sunlight_191877_1280x720.jpg">
+        <Image src="https://images.wallpaperscraft.com/image/single/forest_trees_winter_252495_1280x720.jpg">
           <div className="photo" />
           <button>Editar perfil</button>
         </Image>
